@@ -1,6 +1,6 @@
 # DILDO
 
-
+$cd DILDO 
 $pip install socks
 $pip install cloudscaper
 $python installer.py
